@@ -1,0 +1,44 @@
+/* .detail-container{
+  height: 400rpx;
+  filter: blur(40rpx);
+  opacity: .4;
+}
+
+.detail-mask{
+  position: absolute;
+  width: 100%;
+  height: 400rpx;
+  background-color: #333;
+  top: 0;
+  left: 0;
+  z-index: -1;
+} */
+
+.dyfh{
+ 
+  height: 200rpx;
+  font-size: 50rpx;
+  color: green;
+  font-weight:blod;
+ /*  border: 1px solid yellowgreen;  */
+  font-family: "楷体";
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  
+}
+
+.container{
+  width: 200rpx;
+ /*  height: 200rpx; */
+  text-align: center;
+  line-height: 200rpx;
+   font-family: "楷体";
+}
+
+.container1{
+
+   font-family: "楷体";
+
+}

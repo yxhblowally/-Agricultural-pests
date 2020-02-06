@@ -1,0 +1,15 @@
+.preview{
+  height: 60rpx;
+  background: #e54846;
+  color: #fff;
+  font-size: 26rpx;
+  margin-top: 120rpx;
+}
+
+.getinfo{
+  height: 60rpx;
+  background: #e54846;
+  color: #fff;
+  font-size: 26rpx;
+  margin-top: 120rpx;
+}

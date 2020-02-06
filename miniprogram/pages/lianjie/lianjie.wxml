@@ -1,0 +1,27 @@
+<swiper indicator-dots="true" autoplay="true" interval="5000" duration="500" style="width:100%">
+  <block wx:for="{{imgUrls}}" wx:for-item="item">
+  <swiper-item>
+  <image src="{{item.imgsrc}}" class="slide-image" style="width:100%;height:600rpx;"/>
+  </swiper-item>
+  </block>
+</swiper>
+<view>蔬菜杀虫剂高效氯氰菊酯茶尺蠖 菜青虫植物蚜虫潜叶蛾打虫药包邮</view>
+<view>价格：18.00-28.00</view>
+<swiper indicator-dots="true" autoplay="true" interval="5000" duration="500" style="width:100%">
+  <block wx:for="{{imgUrl}}" wx:for-item="item">
+  <swiper-item>
+  <image src="{{item.imgsr}}" class="slide-image" style="width:100%;height:600rpx;"/>
+  </swiper-item>
+  </block>
+  </swiper>
+  <view>青蛙牌45%马拉硫磷跳甲 蝽蟓 蝗虫杀虫剂 </view>
+<view>价格：12.00-27.00</view>
+<swiper indicator-dots="true" autoplay="true" interval="5000" duration="500" style="width:100%">
+  <block wx:for="{{imgUr}}" wx:for-item="item">
+  <swiper-item>
+  <image src="{{item.imgs}}" class="slide-image" style="width:100%;height:600rpx;"/>
+  </swiper-item>
+  </block>
+  </swiper>
+  <view>绿丰农资甲氰菊脂乳油清塘柑橘红蜘蛛食心虫农药杀虫螨剂包邮 </view>
+<view>价格：24.7-115.25</view>

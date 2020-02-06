@@ -1,0 +1,5 @@
+
+ <image src="{{address}}"></image> 
+ <button bindtap="Preview" class="preview">图片预览</button>
+ <button bindtap="Getinfo" class="getinfo">虫害信息</button>
+ 
